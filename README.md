@@ -1,2 +1,2 @@
-# cuddly-doodle
+# machine learning 
 assignments
