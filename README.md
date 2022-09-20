@@ -64,3 +64,8 @@ Starting with 0, lambda was increased in small steps until a minimum error was a
 Comparison of L2 gradient descent and closed form
 Error from L2 Gradient descent were 4.43268 and that from closed form solution was 4.52624.
 Errors are comparable so, the L2 gradient descent performs closely with closed form solution.
+
+
+## Assignment-5
+## Assignment-6
+## Assignment-7
